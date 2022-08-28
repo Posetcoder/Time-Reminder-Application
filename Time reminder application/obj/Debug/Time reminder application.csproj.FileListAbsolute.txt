@@ -1,0 +1,40 @@
+C:\Users\Mehrad\source\repos\Time reminder application\Time reminder application\bin\Debug\Time reminder application.exe.config
+C:\Users\Mehrad\source\repos\Time reminder application\Time reminder application\bin\Debug\Time reminder application.exe
+C:\Users\Mehrad\source\repos\Time reminder application\Time reminder application\bin\Debug\Time reminder application.pdb
+C:\Users\Mehrad\source\repos\Time reminder application\Time reminder application\obj\Debug\Time reminder application.csproj.AssemblyReference.cache
+C:\Users\Mehrad\source\repos\Time reminder application\Time reminder application\obj\Debug\Time_reminder_application.Properties.Resources.resources
+C:\Users\Mehrad\source\repos\Time reminder application\Time reminder application\obj\Debug\Time reminder application.csproj.GenerateResource.cache
+C:\Users\Mehrad\source\repos\Time reminder application\Time reminder application\obj\Debug\Time reminder application.csproj.CoreCompileInputs.cache
+C:\Users\Mehrad\source\repos\Time reminder application\Time reminder application\obj\Debug\Time reminder application.exe
+C:\Users\Mehrad\source\repos\Time reminder application\Time reminder application\obj\Debug\Time reminder application.pdb
+C:\Users\Mehrad\source\repos\Time reminder application\Time reminder application\obj\Debug\Time_reminder_application.WarningOne.resources
+C:\Users\Mehrad\source\repos\Time reminder application\Time reminder application\obj\Debug\Time_reminder_application.MainForm.resources
+C:\Users\Mehrad\source\repos\Time reminder application\Time reminder application\obj\Debug\Time_reminder_application.LastWarning.resources
+C:\Users\Mehrad\source\repos\Time reminder application\Time reminder application\obj\Debug\Time_reminder_application.TimesUpForm.resources
+D:\reminder Mehrad App\Time reminder application\Time reminder application\bin\Debug\Time reminder application.exe.config
+D:\reminder Mehrad App\Time reminder application\Time reminder application\bin\Debug\Time reminder application.exe
+D:\reminder Mehrad App\Time reminder application\Time reminder application\bin\Debug\Time reminder application.pdb
+D:\reminder Mehrad App\Time reminder application\Time reminder application\obj\Debug\Time reminder application.csprojAssemblyReference.cache
+D:\reminder Mehrad App\Time reminder application\Time reminder application\obj\Debug\Time_reminder_application.LastWarning.resources
+D:\reminder Mehrad App\Time reminder application\Time reminder application\obj\Debug\Time_reminder_application.MainForm.resources
+D:\reminder Mehrad App\Time reminder application\Time reminder application\obj\Debug\Time_reminder_application.TimesUpForm.resources
+D:\reminder Mehrad App\Time reminder application\Time reminder application\obj\Debug\Time_reminder_application.WarningOne.resources
+D:\reminder Mehrad App\Time reminder application\Time reminder application\obj\Debug\Time_reminder_application.Properties.Resources.resources
+D:\reminder Mehrad App\Time reminder application\Time reminder application\obj\Debug\Time reminder application.csproj.GenerateResource.cache
+D:\reminder Mehrad App\Time reminder application\Time reminder application\obj\Debug\Time reminder application.csproj.CoreCompileInputs.cache
+D:\reminder Mehrad App\Time reminder application\Time reminder application\obj\Debug\Time reminder application.exe
+D:\reminder Mehrad App\Time reminder application\Time reminder application\obj\Debug\Time reminder application.pdb
+C:\Users\Mehrad\Documents\Time reminder application\Time reminder application\Time reminder application\bin\Debug\Time reminder application.exe.config
+C:\Users\Mehrad\Documents\Time reminder application\Time reminder application\Time reminder application\bin\Debug\Time reminder application.exe
+C:\Users\Mehrad\Documents\Time reminder application\Time reminder application\Time reminder application\bin\Debug\Time reminder application.pdb
+C:\Users\Mehrad\Documents\Time reminder application\Time reminder application\Time reminder application\obj\Debug\Time reminder application.csproj.AssemblyReference.cache
+C:\Users\Mehrad\Documents\Time reminder application\Time reminder application\Time reminder application\obj\Debug\Time_reminder_application.LastWarning.resources
+C:\Users\Mehrad\Documents\Time reminder application\Time reminder application\Time reminder application\obj\Debug\Time_reminder_application.MainForm.resources
+C:\Users\Mehrad\Documents\Time reminder application\Time reminder application\Time reminder application\obj\Debug\Time_reminder_application.TimesUpForm.resources
+C:\Users\Mehrad\Documents\Time reminder application\Time reminder application\Time reminder application\obj\Debug\Time_reminder_application.WarningOne.resources
+C:\Users\Mehrad\Documents\Time reminder application\Time reminder application\Time reminder application\obj\Debug\Time_reminder_application.Properties.Resources.resources
+C:\Users\Mehrad\Documents\Time reminder application\Time reminder application\Time reminder application\obj\Debug\Time reminder application.csproj.GenerateResource.cache
+C:\Users\Mehrad\Documents\Time reminder application\Time reminder application\Time reminder application\obj\Debug\Time reminder application.csproj.CoreCompileInputs.cache
+C:\Users\Mehrad\Documents\Time reminder application\Time reminder application\Time reminder application\obj\Debug\Time reminder application.exe
+C:\Users\Mehrad\Documents\Time reminder application\Time reminder application\Time reminder application\obj\Debug\Time reminder application.pdb
+C:\Users\Mehrad\Documents\Time reminder application\Time reminder application\Time reminder application\obj\Debug\Time reminder application.csproj.SuggestedBindingRedirects.cache
